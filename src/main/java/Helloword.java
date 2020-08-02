@@ -10,6 +10,9 @@ public class Helloword {
         System.out.println("tk");
         System.out.println("remote");
         System.out.println("rebase");
+        String str="select * from test";
+        System.out.println(str);
+        
 
 
 
